@@ -7,5 +7,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), solidJs(), sitemap()]
+  integrations: [tailwind(), solidJs(), sitemap()],
+  site: "https://portfolio-revamp-yoshiboi18303.vercel.app/"
 });

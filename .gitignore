@@ -30,3 +30,6 @@ diagrams/
 .vs/
 .vscode/
 .idea/
+
+# Vercel files
+.vercel/
