@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Discord Bot Creator",
+    "description": "A project for quickly creating and scaffolding a Discord bot project.",
+    "imageURL": "/images/discord-bot-creator.png",
+    "links": [
+      {
+        "url": "https://npmjs.com/package/discord-bot-creator",
+        "text": "Get on NPM",
+        "openInNewTab": true
+      },
+      {
+        "url": "https://github.com/Yoshiboi18303/discord-bot-creator",
+        "text": "Check it out on GitHub",
+        "openInNewTab": true
+      }
+    ]
+  }
+]
